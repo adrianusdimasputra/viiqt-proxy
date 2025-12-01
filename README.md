@@ -1,3 +1,5 @@
 # Made by @viiqt/vii#2131
 
-Don't dm me for sources. Repo's made out of scraps & unique codes made into a masterpiece.
+if you ask me about why i only put the build.sln,
+i honestly have no idea.
+
